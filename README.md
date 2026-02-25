@@ -17,7 +17,7 @@ Right now I’m focused on:
 - Multi-step reasoning loops (plan → act → verify)
 - Reliability via validation, constraints, retries, and fallbacks
 
-### 🔁 Workflow Automation (n8n)
+### 🔁 Workflow Automation (n8n, OpenClaw)
 - Webhook-driven automations
 - Exception-handling pipelines
 - State passing + branching + idempotent actions
@@ -28,9 +28,10 @@ Right now I’m focused on:
 ## 🧩 Current focus
 - **SupplyMate** — a supply chain “control tower” automation system  
   *Resolves exceptions by orchestrating real-time signals + LLM reasoning loops + next-best-action execution.*
+ [repo redirect](https://github.com/sai-shashankN/SupplyMate)
 
 - **Pharmate** — an agentic research copilot (multi-agent, adapters, retrieval, structured reasoning)
-
+  *repo coming soon (ETA: 2 days), major changes with DB in process*
 ---
 
 ## 🛠️ Tech stack
