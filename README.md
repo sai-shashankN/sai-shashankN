@@ -26,12 +26,13 @@ Right now I’m focused on:
 ---
 
 ## 🧩 Current focus
-- **SupplyMate** — a supply chain “control tower” automation system  
+- **SupplyMate** — a supply chain “control tower” automation system   [repo redirect](https://github.com/sai-shashankN/SupplyMate)
   *Resolves exceptions by orchestrating real-time signals + LLM reasoning loops + next-best-action execution.*
- [repo redirect](https://github.com/sai-shashankN/SupplyMate)
+
 
 - **Pharmate** — an agentic research copilot (multi-agent, adapters, retrieval, structured reasoning)
   *repo coming soon (ETA: 2 days), major changes with DB in process*
+  
 ---
 
 ## 🛠️ Tech stack
